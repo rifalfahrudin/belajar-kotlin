@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a96de79-731d-42f1-98e2-fb1d870903e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P2_17_Arraylist.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P2_18_ArrayList.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -31,8 +31,8 @@
       <file leaf-file-name="WhileLoop.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WhileLoop.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+            <state relative-caret-position="17">
+              <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
               <folding>
                 <element signature="n#!!doc;n#main#0" expanded="false" />
               </folding>
@@ -40,11 +40,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P2_17_Arraylist.kt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/P2_17_Arraylist.kt">
+      <file leaf-file-name="P2_18_ArrayList.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/P2_18_ArrayList.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="61">
+              <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
               <folding>
                 <element signature="n#!!doc;n#main#0" expanded="false" />
               </folding>
@@ -75,6 +75,7 @@
         <option value="$PROJECT_DIR$/src/String.kt" />
         <option value="$PROJECT_DIR$/src/WhileLoop.kt" />
         <option value="$PROJECT_DIR$/src/P2_17_Arraylist.kt" />
+        <option value="$PROJECT_DIR$/src/P2_18_ArrayList.kt" />
       </list>
     </option>
   </component>
@@ -144,7 +145,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.P2_17_ArraylistKt">
+  <component name="RunManager" selected="Kotlin.P2_18_ArrayListKt">
     <configuration default="false" name="StringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="StringKt" />
@@ -174,6 +175,40 @@
     <configuration default="false" name="P2_17_ArraylistKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="P2_17_ArraylistKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="rifal" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="P2_18_ArrayListKt" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="rifal" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="P2_18_ArrayListKt" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="P2_18_ArrayListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="P2_18_ArrayListKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -388,16 +423,20 @@
       <listeners />
       <method />
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Kotlin.StringKt" />
       <item index="1" class="java.lang.String" itemvalue="Kotlin.WhileLoopKt" />
       <item index="2" class="java.lang.String" itemvalue="Kotlin.P2_17_ArraylistKt" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.P2_18_ArrayListKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.P2_18_ArrayListKt" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.P2_17_ArraylistKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.WhileLoopKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.StringKt" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.P2_18_ArrayListKt" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.P2_18_ArrayListKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.P2_17_ArraylistKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.WhileLoopKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.StringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -417,6 +456,11 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="P2_18_ArrayListKt - 2017.10.17 at 12h 07m 38s.xml">
+      <configuration name="P2_18_ArrayListKt" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="687" height="735" extended-state="0" />
     <editor active="true" />
@@ -430,7 +474,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -473,20 +517,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WhileLoop.kt">
+    <entry file="file://$PROJECT_DIR$/src/P2_17_Arraylist.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="204">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
           <folding>
             <element signature="n#!!doc;n#main#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/P2_17_Arraylist.kt">
+    <entry file="file://$PROJECT_DIR$/src/WhileLoop.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="17">
+          <caret line="3" column="30" lean-forward="true" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <element signature="n#!!doc;n#main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/P2_18_ArrayList.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
           <folding>
             <element signature="n#!!doc;n#main#0" expanded="false" />
           </folding>
