@@ -4,8 +4,8 @@
 fun main(args: Array<String>) {
     var map=HashMap<Int, String>()
     map.put(1,"Ahmad")
-    map.put(2."Rifal")
-    map.put(33."Fahrudin")
+    map.put(2,"Rifal")
+    map.put(33,"Fahrudin")
     println(map.get(33))
 
     map.put(33, "Unisnu Jepara")
