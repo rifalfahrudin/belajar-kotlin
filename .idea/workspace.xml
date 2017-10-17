@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a96de79-731d-42f1-98e2-fb1d870903e5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/P2_18_ArrayList.kt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/HashMap.kt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -40,11 +40,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="P2_18_ArrayList.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="P2_18_ArrayList.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/P2_18_ArrayList.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="61">
               <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+              <folding>
+                <element signature="n#!!doc;n#main#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/HashMap.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding>
                 <element signature="n#!!doc;n#main#0" expanded="false" />
               </folding>
@@ -76,6 +88,7 @@
         <option value="$PROJECT_DIR$/src/WhileLoop.kt" />
         <option value="$PROJECT_DIR$/src/P2_17_Arraylist.kt" />
         <option value="$PROJECT_DIR$/src/P2_18_ArrayList.kt" />
+        <option value="$PROJECT_DIR$/src/HashMap.kt" />
       </list>
     </option>
   </component>
@@ -145,20 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.P2_18_ArrayListKt">
-    <configuration default="false" name="StringKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="StringKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="rifal" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.HashMapKt">
     <configuration default="false" name="WhileLoopKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="WhileLoopKt" />
@@ -209,6 +209,19 @@
     <configuration default="false" name="P2_18_ArrayListKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="P2_18_ArrayListKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="rifal" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="HashMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="HashMapKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -424,19 +437,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.StringKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.WhileLoopKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.P2_17_ArraylistKt" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.P2_18_ArrayListKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.P2_18_ArrayListKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.WhileLoopKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.P2_17_ArraylistKt" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.P2_18_ArrayListKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.P2_18_ArrayListKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.HashMapKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.P2_18_ArrayListKt" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.P2_18_ArrayListKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.P2_17_ArraylistKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.WhileLoopKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.StringKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.HashMapKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.P2_18_ArrayListKt" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.P2_18_ArrayListKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.P2_17_ArraylistKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.WhileLoopKt" />
       </list>
     </recent_temporary>
   </component>
@@ -468,13 +481,13 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -541,6 +554,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61">
           <caret line="17" column="48" lean-forward="false" selection-start-line="17" selection-start-column="48" selection-end-line="17" selection-end-column="48" />
+          <folding>
+            <element signature="n#!!doc;n#main#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/HashMap.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="20" lean-forward="false" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
           <folding>
             <element signature="n#!!doc;n#main#0" expanded="false" />
           </folding>
